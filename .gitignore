@@ -16,7 +16,7 @@ gen/
 out/
 
 # Gradle files
-gradle/
+.gradle/
 build/
 
 # Local configuration file (sdk path, etc)
@@ -30,15 +30,15 @@ proguard/
 
 # Android Studio/IntelliJ IDEA
 *.iml
-idea/
-idea/caches/
-idea/libraries/
-idea/modules.xml
-idea/workspace.xml
-idea/gradle.xml
-idea/usage.statistics.xml
-idea/dictionaries/
-idea/httpRequests/
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/httpRequests/
 
 # Keystore files
 *.jks
